@@ -1,0 +1,3 @@
+001,Filosofi Teras,12000
+002,Black Clover,10000
+003,nanatsu no taizai,10000
